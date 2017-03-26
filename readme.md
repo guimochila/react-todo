@@ -1,1 +1,1 @@
-React Timer App - Learning React Js!
+React BoilerPlate using ES5 + Foundation CSS.
