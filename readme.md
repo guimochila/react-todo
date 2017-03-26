@@ -1,1 +1,1 @@
-React BoilerPlate using ES5 + Foundation CSS.
+React Todo App - Learning purposes
